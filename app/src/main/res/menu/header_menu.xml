@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="看电视" android:icon="@mipmap/a4q" android:id="@+id/tv"/>
+    <item android:title="听音乐" android:icon="@mipmap/a4t" android:id="@+id/music"/>
+    <item android:title="联系人" android:icon="@mipmap/as7" android:id="@+id/contanct"/>
+    <item android:title="定位" android:icon="@mipmap/agh" android:id="@+id/location"/>
+    <item android:title="百度"  android:id="@+id/baidu"/>
+    <item android:title="搜狐"  android:id="@+id/souhu"/>
+    <item android:title="网易"  android:id="@+id/wangyi"/>
+</menu>
