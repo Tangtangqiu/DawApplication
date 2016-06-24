@@ -59,6 +59,7 @@ public class MainActivity extends AppCompatActivity{
         listener.syncState();
 
         drawerLayout.addDrawerListener(listener);
+        //修改打印功能
 
     }
 
